@@ -1,1 +1,2 @@
-# To-Do-List
+# todos
+ Beginner Todo CRUD Project [HTML CSS & JavaScript]
